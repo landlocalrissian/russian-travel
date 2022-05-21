@@ -1,0 +1,8 @@
+.header__lang-link_line {
+  display: inline;
+  text-decoration: underline;
+}
+
+.header__lang-link_line:last-child {
+  text-decoration: none;
+}

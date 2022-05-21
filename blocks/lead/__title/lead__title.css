@@ -1,0 +1,20 @@
+.lead__title {
+  display: inline-table;
+  width: 720px;
+  font-weight: 900;
+  font-size: 96px;
+  line-height: 104%;
+  text-align: center;
+  color: #ffffff;
+  margin:0;
+  margin-bottom: 32px;
+}
+
+@media screen and (max-width: 767px) {
+  .lead__title {
+    width: 288px;
+    font-size: 40px;
+    line-height: 110%;
+    margin: 0 auto 16px auto;
+  }
+}
