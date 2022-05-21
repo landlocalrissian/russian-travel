@@ -20,7 +20,6 @@
   content: "";
   position: absolute;
   opacity: 0.3;
-  position: absolute;
   background: #2a2c2f;
   left: 0;
   transition: opacity 0.5s ease;
