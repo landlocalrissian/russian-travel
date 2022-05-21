@@ -6,7 +6,7 @@
   line-height: 120%;
   text-align: center;
   color: #ffffff;
-  margin-bottom: 64px;
+  margin:0 auto 64px auto;
 }
 @media screen and (max-width: 767px) {
   .lead__subtitle {
