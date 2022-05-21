@@ -6,7 +6,7 @@
   line-height: 117%;
   text-align: right;
   color: #ffffff;
-  margin: 46px 0 0 0;
+  margin: 28px 0 0 0;
   padding: 0;
 }
 
@@ -14,5 +14,7 @@
   .header__lang-links {
     font-size: 18px;
     line-height: 111%;
+    margin: 16px 0 0 0;
+
   }
 }

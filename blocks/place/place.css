@@ -13,7 +13,7 @@
     max-width: 928px;
     grid-template-columns: 440px 1fr;
     grid-gap: 48px 32px;
-    margin: 0 auto 80px auto;
+    margin-top: 0 auto 80px auto;
   }
 }
 @media screen and (max-width: 1023px) {
@@ -21,7 +21,7 @@
     max-width: 720px;
     grid-template-columns: 340px 1fr;
     grid-gap: 48px 28px;
-    margin: 0 auto 73px auto;
+    margin-bottom: 73px;
   }
 }
 @media screen and (max-width: 767px) {
@@ -30,6 +30,6 @@
     grid-template-columns: minmax(288px, 1fr);
     grid-gap: 32px;
     grid-template-areas: "title" "url" "image" "paragraph";
-    margin: 0 auto 50px auto;
+    margin-bottom: 50px;
   }
 }

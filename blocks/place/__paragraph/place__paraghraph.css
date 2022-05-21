@@ -15,14 +15,13 @@
 @media screen and (max-width: 1279px) {
   .place__paragraph {
     max-width: 456px;
-    margin: 0 0 27px 0;
+    margin-bottom: 27px;
   }
-  
 }
 @media screen and (max-width: 1023px) {
   .place__paragraph {
     max-width: 352px;
-    margin: 0 0 25px 0;
+    margin-bottom: 25px;
   }
 }
 

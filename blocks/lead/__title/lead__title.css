@@ -5,8 +5,7 @@
   line-height: 104%;
   text-align: center;
   color: #ffffff;
-  margin: 0;
-  margin-bottom: 32px;
+  margin: 0 0 32px 0;
 }
 
 @media screen and (max-width: 767px) {
