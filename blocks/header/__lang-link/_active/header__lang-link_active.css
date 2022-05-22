@@ -1,0 +1,5 @@
+.header__lang-link_active {
+  display: inline;
+  text-decoration: underline;
+  margin-right: 18px;
+}

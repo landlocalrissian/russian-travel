@@ -18,6 +18,7 @@
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(6, 1fr);
     margin: auto;
+    max-width: 720px;
   }
 }
 @media screen and (max-width: 767px) {
