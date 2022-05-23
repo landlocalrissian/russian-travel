@@ -3,9 +3,3 @@
   text-decoration: underline;
   font-style: normal;
 }
-@media screen and (max-width: 767px) {
-  .header__lang-link_active {
-    font-size: 18px;
-    line-height: 111%;
-  }
-}

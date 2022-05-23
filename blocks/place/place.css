@@ -5,7 +5,7 @@
   grid-gap: 48px 40px;
   grid-template-areas: "title url" "image paragraph";
   padding: 0;
-  margin-bottom: 50px;
+  margin-bottom: 80px;
 }
 .place:last-of-type {
   margin-bottom: 0;
@@ -27,7 +27,7 @@
     max-width: 720px;
     grid-template-columns: 340px 1fr;
     grid-gap: 48px 28px;
-    margin-bottom: 90px;
+    margin-bottom: 73px;
   }
 }
 @media screen and (max-width: 767px) {
