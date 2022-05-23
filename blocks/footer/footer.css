@@ -2,29 +2,25 @@
   max-width: 1184px;
   width: 100%;
   padding: 0;
-  min-height: 18px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  margin: 0 auto 0 auto;
+  margin: 0 auto 24px auto;
 }
 @media screen and (max-width: 1279px) {
   .footer {
     max-width: 928px;
   }
 }
-@media screen and (max-width: 1279px) {
+@media screen and (max-width: 1023px) {
   .footer {
-    margin-left: 24px;
     max-width: 720px;
   }
 }
+
 @media screen and (max-width: 767px) {
   .footer {
-    display: flex;
-    max-width: 186px;
+    max-width: 288px;
     flex-direction: column;
-    margin: 0 auto 24px 16px;
-    align-items: flex-start;
   }
 }
+

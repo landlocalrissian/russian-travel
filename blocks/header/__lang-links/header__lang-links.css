@@ -1,5 +1,7 @@
 .header__lang-links {
-  display: inline;
+  display: flex;
+  list-style: none;
+  column-gap: 18px;
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
@@ -8,6 +10,7 @@
   color: #ffffff;
   margin: 18px 0 0 0;
   padding: 0;
+  
 }
 
 @media screen and (max-width: 767px) {
@@ -18,3 +21,4 @@
 
   }
 }
+

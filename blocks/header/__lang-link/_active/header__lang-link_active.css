@@ -1,5 +1,10 @@
 .header__lang-link_active {
   display: inline;
   text-decoration: underline;
-  margin-right: 18px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 117%;
+  text-align: right;
+  color: #ffffff;
 }
